@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\MonthDate\MonthDate\bin\Debug\MonthDate.exe.config
+C:\Users\ucenik\source\repos\MonthDate\MonthDate\bin\Debug\MonthDate.exe
+C:\Users\ucenik\source\repos\MonthDate\MonthDate\bin\Debug\MonthDate.pdb
+C:\Users\ucenik\source\repos\MonthDate\MonthDate\obj\Debug\MonthDate.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\MonthDate\MonthDate\obj\Debug\MonthDate.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\MonthDate\MonthDate\obj\Debug\MonthDate.Form1.resources
+C:\Users\ucenik\source\repos\MonthDate\MonthDate\obj\Debug\MonthDate.Properties.Resources.resources
+C:\Users\ucenik\source\repos\MonthDate\MonthDate\obj\Debug\MonthDate.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\MonthDate\MonthDate\obj\Debug\MonthDate.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\MonthDate\MonthDate\obj\Debug\MonthDate.exe
+C:\Users\ucenik\source\repos\MonthDate\MonthDate\obj\Debug\MonthDate.pdb
